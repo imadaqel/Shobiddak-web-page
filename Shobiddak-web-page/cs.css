@@ -1,0 +1,174 @@
+
+#black{
+	background-color:#333;
+	height:43px;
+	padding-left:50x;
+
+
+}
+#black li{
+	display: inline-block;
+
+}
+#contact{
+
+	color: white;
+	font-size:20px;
+	padding-top: 5px;
+	margin-left: 17px;
+	padding-left: 10px;
+}
+
+#Unicode{
+	color: white;
+font-size:20px;
+padding-top: 3px;
+margin-left: 17px;
+}
+
+#plus{
+	color: white;
+font-size:20px;
+padding-top:0px;
+margin-left: 17px;
+background-color: #A40466;
+
+}
+#sms{
+	color: white;
+font-size:20px;
+padding-top: 3px;
+margin-left: 17px;
+}
+
+#id{
+	color: white;
+font-size:20px;
+padding-top: 3px;
+margin-left: 17px;
+}
+
+#img{
+
+padding-bottom: 5px;
+padding-right: 50px;
+width: 100px;
+height: 50px;
+
+}
+
+.container{
+	margin-right: 100px;
+ margin-top: 100px;
+ background-color: white;
+ 
+
+}
+body{
+	background-color:red;
+	font-family: Tahoma,Verdana,Helvetica,Arial;
+}
+
+.card-deck{
+	margin-left: 50px;
+ margin-top: 50px;
+ border-color:red;
+
+ 
+
+}
+
+.card1{
+	margin-left:280px;
+ margin-top: 50px;
+ border-color:red;
+}
+
+.card{
+	margin-right:280px;
+ margin-top: 50px;
+ border-color:red;
+}
+
+#hole{
+
+	background-color: red;
+}
+#under{
+	background-color: blue;
+	padding-top: 50px;
+   width:50px;
+   height: 50px;
+}
+.footer {
+  /* position: fixed;*/
+   /*left: 0;
+   bottom: 0;*/
+    background-color: #0477A0;
+   width: 100%;
+   height: 300px;
+   margin-top: 1500px;
+   padding-top: 100px;
+   margin-right: 500px;
+   margin-left: 80px;
+  
+   align-items: center;
+  
+   color: white;
+   text-align:center;
+}
+#emad{
+	background-color: #0477A0;
+	 width: 1080px;
+   height: 400px;
+   margin-top: 1100px;
+   padding-top: 100px;
+   margin-right: 500px;
+   margin-left: 120px;
+  
+   align-items: center;
+  
+   color: white;
+   text-align:center;
+}
+
+#text-uppercase{
+
+	font-size: 25px;
+	color: black;
+	/*align-content: left;*/
+	/*margin-bottom: 50px;*/
+	/*padding-bottom: 50px;*/
+}
+.fa{
+	color: red;
+	background-color:white;
+}
+.Unicode{
+	color: white;
+}
+/*.btn-group{
+
+	margin-right: 30px;
+	background-color: red;
+}*/
+.list-unstyled{
+align-content: left;
+}
+
+#search{
+	margin-left: 18px;
+
+}
+.vertical-menu {
+  width: 690px;
+  height: 35px;
+  color: white;
+  margin-top: 155px;
+  background-color: #0477A0;
+  margin-left: 305px;
+}
+
+.half{
+	margin-bottom: 150px;
+}
